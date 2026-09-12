@@ -1,14 +1,14 @@
-# Hey there, 👋
-I'm Atishay Jain.
+# Hello there, I'm Atishay Jain.
 
-I enjoy building things, learning new technologies, and figuring things out along the way.
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=76B900&center=false&vCenter=true&width=600&lines=Building+things+and+learning+along+the+way.;Exploring+tech%2C+one+project+at+a+time.;Figuring+out+what's+next.)](https://git.io/typing-svg)
 ## About Me
 
 - 💻 Interested in software development, AI/ML, and building practical applications
 - ☁️ Exploring cloud technologies and AWS
 - 🧠 Currently strengthening my foundations in DSA, OOP, C++, Linux, and AI/ML
-- 🚀 I like turning ideas into working projects and learning through the process
+- 🏅 Love playing sports, especially badminton, and always up for trying pretty much any sport.
+
 
 ## Experience
 
@@ -57,13 +57,11 @@ My work involved frontend development, REST API integration and testing, Git/Git
 
 ## Interests
 
-📚 Exploring new ideas through books, technology, and side projects.
-
-🔍 Always curious about how things work and enjoy experimenting with things outside my usual stack.
-
-🌱 Currently learning, building, and figuring out what's next.
+- 🤝 Enjoy meeting new people, having conversations, and learning from different perspectives.
+- 🚀 I like taking initiative and putting myself outside my comfort zone whenever there's an opportunity to learn or grow.
+- 📚 Enjoy exploring ideas through books, technology, and side projects.
 
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atishayjain06)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atishay46)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atishayjain6245@gmail.com)
